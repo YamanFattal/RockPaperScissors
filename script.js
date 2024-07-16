@@ -18,3 +18,5 @@ function getHumanChoice (){
     return choice;
 }
 
+let computerScore = 0;
+let humanScore = 0;
